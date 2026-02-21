@@ -1,9 +1,8 @@
-
 </head>
 <body>
 <main>
 <div id="halo"></div>
-<h1>PORTFOLIO WEBSITE</h1>
+<h1>PORTFOLIO</h1>
 <p>Game Developer • AI Automation Expert • 3D Artist • YouTuber • Researcher • Prompt Engineer</p>
 <div id="scene">
 <div id="ring">
@@ -29,6 +28,7 @@
 </div>
 <div class="links">
 <a class="primary btn" href="mailto:aryankumar3261@gmail.com">Contact</a>
+<a class="primary btn" href=">WEBSITE</a>
 <a class="secondary btn" href="https://aryan-creations.itch.io/" target="_blank">GameDev Profile</a>
 </div>
 </main>
