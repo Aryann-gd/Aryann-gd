@@ -28,7 +28,6 @@
 </div>
 <div class="links">
 <a class="primary btn" href="mailto:aryankumar3261@gmail.com">Contact</a>
-<a class="primary btn" href="https://aryann-gd.github.io/Aryann-gd/">WEBSITE</a>
 <a class="secondary btn" href="https://aryan-creations.itch.io/" target="_blank">ITCH.IO Profile</a>
 </div>
 </main>
