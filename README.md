@@ -1,35 +1,22 @@
-</head>
-<body>
-<main>
-<div id="halo"></div>
-<h1>PORTFOLIO</h1>
-<p>Game Developer • AI Automation Expert • 3D Artist • YouTuber • Researcher • Prompt Engineer</p>
-<div id="scene">
-<div id="ring">
-<div class="card" style="--i:0;transform:rotateY(0deg) translateZ(320px)">
-<span>🎮</span><h2>Game Dev</h2><small>Worlds & mechanics</small>
-</div>
-<div class="card" style="--i:1;transform:rotateY(60deg) translateZ(320px)">
-<span>⚙️</span><h2>AI Auto</h2><small>Smart pipelines</small>
-</div>
-<div class="card" style="--i:2;transform:rotateY(120deg) translateZ(320px)">
-<span>🧊</span><h2>3D Art</h2><small>Models & shaders</small>
-</div>
-<div class="card" style="--i:3;transform:rotateY(180deg) translateZ(320px)">
-<span>🎥</span><h2>YouTuber</h2><small>Docs & devlogs</small>
-</div>
-<div class="card" style="--i:4;transform:rotateY(240deg) translateZ(320px)">
-<span>🔬</span><h2>Research</h2><small>Future-focused</small>
-</div>
-<div class="card" style="--i:5;transform:rotateY(300deg) translateZ(320px)">
-<span>🤖</span><h2>Prompt Eng</h2><small>LLM mastery</small>
-</div>
-</div>
-</div>
-<div class="links">
-<a class="primary btn" href="mailto:aryankumar3261@gmail.com">Contact</a>
-<a class="secondary btn" href="https://aryan-creations.itch.io/" target="_blank">ITCH.IO Profile</a>
-</div>
-</main>
-</body>
-</html>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome+to+my+GitHub!&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F70C&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img height="150em" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
